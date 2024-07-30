@@ -1,0 +1,11 @@
+Model Information:
+* title:	Default Cube (1)
+* source:	https://sketchfab.com/3d-models/default-cube-1-73a47b1b3b794547aa00c2300102232d
+* author:	lkx (https://sketchfab.com/lkx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Default Cube (1)" (https://sketchfab.com/3d-models/default-cube-1-73a47b1b3b794547aa00c2300102232d) by lkx (https://sketchfab.com/lkx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
